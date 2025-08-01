@@ -17,13 +17,16 @@ export const classService = {
     return { ...classItem }
   },
 
-  async create(classData) {
+async create(classData) {
     await delay(400)
     const maxId = Math.max(...classesData.map(c => c.Id), 0)
     const newClass = {
       ...classData,
       Id: maxId + 1,
-      id: `CLS${String(maxId + 1).padStart(3, "0")}`
+      id: `CLS${String(maxId + 1).padStart(3, "0")}`,
+      gradeLevel: classData.gradeLevel || "Not specified",
+      description: classData.description || "",
+      students: classData.students || 0
     }
     classesData.push(newClass)
     return { ...newClass }
