@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "studentId": "STU001",
+    "classId": "CLS001",
+    "assignmentName": "Algebra Quiz",
+    "score": 95,
+    "maxScore": 100,
+    "date": "2023-10-15",
+    "type": "Quiz"
+  },
+  {
+    "Id": 2,
+    "studentId": "STU001",
+    "classId": "CLS002",
+    "assignmentName": "Shakespeare Essay",
+    "score": 88,
+    "maxScore": 100,
+    "date": "2023-10-20",
+    "type": "Essay"
+  },
+  {
+    "Id": 3,
+    "studentId": "STU002",
+    "classId": "CLS001",
+    "assignmentName": "Algebra Quiz",
+    "score": 92,
+    "maxScore": 100,
+    "date": "2023-10-15",
+    "type": "Quiz"
+  },
+  {
+    "Id": 4,
+    "studentId": "STU003",
+    "classId": "CLS003",
+    "assignmentName": "Lab Report",
+    "score": 85,
+    "maxScore": 100,
+    "date": "2023-10-18",
+    "type": "Lab"
+  }
+]

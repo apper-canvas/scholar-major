@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "id": "STU001",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@email.com",
+    "gradeLevel": "10th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 123-4567",
+    "address": "123 Oak Street, Springfield, IL 62701"
+  },
+  {
+    "Id": 2,
+    "id": "STU002",
+    "name": "Michael Chen",
+    "email": "michael.chen@email.com",
+    "gradeLevel": "11th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 234-5678",
+    "address": "456 Pine Avenue, Springfield, IL 62702"
+  },
+  {
+    "Id": 3,
+    "id": "STU003",
+    "name": "Sarah Williams",
+    "email": "sarah.williams@email.com",
+    "gradeLevel": "9th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 345-6789",
+    "address": "789 Maple Drive, Springfield, IL 62703"
+  },
+  {
+    "Id": 4,
+    "id": "STU004",
+    "name": "David Rodriguez",
+    "email": "david.rodriguez@email.com",
+    "gradeLevel": "12th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 456-7890",
+    "address": "321 Elm Street, Springfield, IL 62704"
+  },
+  {
+    "Id": 5,
+    "id": "STU005",
+    "name": "Jessica Brown",
+    "email": "jessica.brown@email.com",
+    "gradeLevel": "10th",
+    "status": "Inactive",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 567-8901",
+    "address": "654 Cedar Lane, Springfield, IL 62705"
+  },
+  {
+    "Id": 6,
+    "id": "STU006",
+    "name": "Alexander Thompson",
+    "email": "alex.thompson@email.com",
+    "gradeLevel": "11th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 678-9012",
+    "address": "987 Birch Road, Springfield, IL 62706"
+  },
+  {
+    "Id": 7,
+    "id": "STU007",
+    "name": "Olivia Davis",
+    "email": "olivia.davis@email.com",
+    "gradeLevel": "9th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 789-0123",
+    "address": "147 Willow Street, Springfield, IL 62707"
+  },
+  {
+    "Id": 8,
+    "id": "STU008",
+    "name": "James Wilson",
+    "email": "james.wilson@email.com",
+    "gradeLevel": "12th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 890-1234",
+    "address": "258 Spruce Avenue, Springfield, IL 62708"
+  },
+  {
+    "Id": 9,
+    "id": "STU009",
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@email.com",
+    "gradeLevel": "10th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 901-2345",
+    "address": "369 Poplar Drive, Springfield, IL 62709"
+  },
+  {
+    "Id": 10,
+    "id": "STU010",
+    "name": "Ryan Garcia",
+    "email": "ryan.garcia@email.com",
+    "gradeLevel": "11th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 012-3456",
+    "address": "741 Ash Street, Springfield, IL 62710"
+  },
+  {
+    "Id": 11,
+    "id": "STU011",
+    "name": "Emma Anderson",
+    "email": "emma.anderson@email.com",
+    "gradeLevel": "9th",
+    "status": "Active",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 123-0456",
+    "address": "852 Hickory Lane, Springfield, IL 62711"
+  },
+  {
+    "Id": 12,
+    "id": "STU012",
+    "name": "Noah Taylor",
+    "email": "noah.taylor@email.com",
+    "gradeLevel": "12th",
+    "status": "Inactive",
+    "enrollmentDate": "2023-09-01",
+    "phone": "(555) 234-1567",
+    "address": "963 Chestnut Road, Springfield, IL 62712"
+  }
+]

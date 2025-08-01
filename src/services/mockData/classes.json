@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "id": "CLS001",
+    "name": "Advanced Mathematics",
+    "subject": "Mathematics",
+    "room": "Room 201",
+    "schedule": "Monday, Wednesday, Friday 9:00-10:00 AM",
+    "teacher": "Dr. Smith",
+    "students": 24,
+    "capacity": 30
+  },
+  {
+    "Id": 2,
+    "id": "CLS002",
+    "name": "English Literature",
+    "subject": "English",
+    "room": "Room 105",
+    "schedule": "Tuesday, Thursday 10:00-11:30 AM",
+    "teacher": "Ms. Johnson",
+    "students": 22,
+    "capacity": 25
+  },
+  {
+    "Id": 3,
+    "id": "CLS003",
+    "name": "Physics Laboratory",
+    "subject": "Science",
+    "room": "Lab 301",
+    "schedule": "Monday, Wednesday 2:00-3:30 PM",
+    "teacher": "Dr. Wilson",
+    "students": 18,
+    "capacity": 20
+  },
+  {
+    "Id": 4,
+    "id": "CLS004",
+    "name": "World History",
+    "subject": "History",
+    "room": "Room 102",
+    "schedule": "Tuesday, Thursday, Friday 11:00 AM-12:00 PM",
+    "teacher": "Mr. Davis",
+    "students": 26,
+    "capacity": 30
+  }
+]
